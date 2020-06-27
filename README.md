@@ -1,2 +1,2 @@
 # shopper
-An shopping web template
+A shopping web template
